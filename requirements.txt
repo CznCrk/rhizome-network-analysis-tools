@@ -1,0 +1,13 @@
+beautifulsoup4
+igraph
+leidenalg
+Markdown
+matplotlib
+networkx
+nltk
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+wordcloud
