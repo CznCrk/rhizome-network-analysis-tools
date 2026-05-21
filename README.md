@@ -83,6 +83,15 @@ The sonified map requires one extra step: you must provide the audio files for t
 
 The `generate_word_clouds.py` script is an academic artefact. The `BLOOM_DATES` dictionary within it is intentionally hard-coded with the specific date ranges used in the original thesis to ensure the direct reproducibility of its findings. To adapt this script for a different project, a user must modify this dictionary to define their own analytical periods.
 
+
+---
+
+### Example
+
+https://github.com/user-attachments/assets/c542f899-b8b7-4664-8a08-69449f7a3d3b
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
